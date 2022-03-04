@@ -4,6 +4,9 @@
 }
 #hi{
     background-color:khaki;
+    margin-top: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;
 }
 #made{
     font:italic;
@@ -11,6 +14,19 @@
     text-align: center;
 }
 #center{
-    background-color: lightslategrey;
-    
+    background-color: lightslategrey;    
+}
+h1, h2, h3, h4{
+    font-family: 'Merriweather', serif;
+    font-family: 'Nunito', sans-serif;
+}
+#p{
+    font-weight: 500;
+    word-spacing: 2px;
+    font-size: 20px;
+}
+.copy_right_footer{
+    font-size: 15px;
+    line-height: 5px;
+    text-shadow: 10px;
 }
