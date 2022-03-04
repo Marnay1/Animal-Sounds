@@ -1,4 +1,4 @@
-https://teachablemachine.withgoogle.com/models/qIe7-tdaQ/model.json
+
 function start(){
     navigator.mediaDevices.getUserMedia({ audio: true});
     classifier= ml5.soundClassifier('https://teachablemachine.withgoogle.com/models/qIe7-tdaQ/model.json', modelReady);
